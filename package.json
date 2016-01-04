@@ -1,13 +1,15 @@
 {
   "name": "fallout4-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "1.0.0",
+  "description": "A syntax theme based on the Pip-Boy UI",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "fallout",
+    "pip-boy"
   ],
-  "repository": "https://github.com/atom/fallout4-syntax",
+  "repository": "https://github.com/rodbor/fallout4-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
